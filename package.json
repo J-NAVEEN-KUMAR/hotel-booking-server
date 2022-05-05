@@ -4,7 +4,7 @@
   "description": "An API for room booking application",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "type": "module",
   "author": "Naveen Kumar J",
